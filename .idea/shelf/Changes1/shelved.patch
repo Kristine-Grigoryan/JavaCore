@@ -1,0 +1,36 @@
+Index: src/lesson1/Example.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>  package lesson1;\r\n\r\n     public class Example {\r\n\r\n     public static void main(String[] args) {\r\n           System.out.print(\"Բարև\");\r\n     }\r\n\r\n     }\r\n\r\n\r\n\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/lesson1/Example.java b/src/lesson1/Example.java
+--- a/src/lesson1/Example.java	(revision 7e7f8e9973350f4ea30b523a016aaa81941caadb)
++++ b/src/lesson1/Example.java	(date 1757456738266)
+@@ -1,6 +1,6 @@
+   package lesson1;
+ 
+-     public class Example {
++     public class Example
+ 
+      public static void main(String[] args) {
+            System.out.print("Բարև");
+Index: src/lesson2/IfSample.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package lesson2;\r\n\r\n  public class IfSample {\r\n\r\n      public static void main(String[] args) {\r\n          int x = 10;\r\n          int y = 20;\r\n\r\n          if (x < y) {\r\n              System.out.println(\"x менше y\");\r\n          }\r\n\r\n          x = x * 2;\r\n          if (x == y) {\r\n              System.out.println(\"x типер равно y\");\r\n          }\r\n          x = x * 2;\r\n          if (x > y) {\r\n              System.out.println(\"x  типер болше y\");\r\n          }\r\n      }\r\n  }\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/lesson2/IfSample.java b/src/lesson2/IfSample.java
+--- a/src/lesson2/IfSample.java	(revision 7e7f8e9973350f4ea30b523a016aaa81941caadb)
++++ b/src/lesson2/IfSample.java	(date 1757455576017)
+@@ -1,6 +1,6 @@
+ package lesson2;
+ 
+-  public class IfSample {
++  public class IfSample
+ 
+       public static void main(String[] args) {
+           int x = 10;
