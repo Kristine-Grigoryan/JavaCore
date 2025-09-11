@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7df317de-3809-4896-b385-82686dd6d427" name="Changes" comment="homework1" />
+    <list default="true" id="7df317de-3809-4896-b385-82686dd6d427" name="Changes" comment="homework1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson2/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson2/Example1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson3/CharExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/CharExample.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,10 +36,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Kristine-Grigoryan&quot;
-  }
+  &quot;lastFilter&quot;: {}
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
@@ -50,61 +51,50 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.CastExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CharExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ForTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Forlesson.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Homework1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IfSample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lesson1.Example.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lesson2.Example1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lesson2.ForTest.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CastExample.executor": "Run",
+    "Application.CharExample (1).executor": "Run",
+    "Application.CharExample.executor": "Run",
+    "Application.Example.executor": "Run",
+    "Application.Example1 (1).executor": "Run",
+    "Application.Example1.executor": "Run",
+    "Application.ForTest.executor": "Run",
+    "Application.Forlesson.executor": "Run",
+    "Application.Homework1.executor": "Run",
+    "Application.IfSample.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.lesson1.Example.executor": "Run",
+    "Application.lesson2.Example1.executor": "Run",
+    "Application.lesson2.ForTest.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
-}</component>
-  <component name="RunManager" selected="Application.Homework1">
-    <configuration name="CastExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson3.CastExample" />
-      <module name="JavaCore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+}]]></component>
+  <component name="RunManager" selected="Application.Example1 (1)">
+    <configuration name="CharExample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="CharExample" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CharExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson3.CharExample" />
-      <module name="JavaCore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Example1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Example1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson2.ForTest" />
+    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
@@ -144,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example1 (1)" />
+        <item itemvalue="Application.Example1" />
         <item itemvalue="Application.Homework1" />
+        <item itemvalue="Application.CharExample (1)" />
         <item itemvalue="Application.Forlesson" />
-        <item itemvalue="Application.ForTest" />
-        <item itemvalue="Application.CastExample" />
-        <item itemvalue="Application.CharExample" />
       </list>
     </recent_temporary>
   </component>
@@ -200,13 +190,31 @@
       <option name="project" value="LOCAL" />
       <updated>1757497253986</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="homework1">
+      <option name="closed" value="true" />
+      <created>1757497465971</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1757497465971</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="a8770bb5-cae9-4f2b-9a68-8175d7cf8063" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="a8770bb5-cae9-4f2b-9a68-8175d7cf8063">
           <value>
             <State />
           </value>
