@@ -1,12 +1,12 @@
-  package lesson1;
+package lesson1;
 
-     public class Example {
+public class Example {
 
-     public static void main(String[] args) {
-           System.out.print("Բարև");
-     }
+    public static void main(String[] args) {
+       System.out.println("Բարև");
+    }
 
-     }
+}
 
 
 

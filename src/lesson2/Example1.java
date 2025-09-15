@@ -1,12 +1,12 @@
- package  lesson2;
+package lesson2;
 
-   public class Example1
+public class Example1 {
 
-      public static void main(String[] args) {
-          int num = 100;
-          System.out.print("number=" + num);
-          num = num * 2;
-          System.out.print("number=");
-          System.out.print(num);
-      }
-   }
+    public static void main(String[] args) {
+        int num = 100;
+        System.out.println("namber=" + num);
+        num = num * 2;
+        System.out.print("number="  );
+        System.out.println(num);
+    }
+}

@@ -3,15 +3,18 @@ package lesson2;
 public class ForTest {
 
     public static void main(String[] args) {
-        //   int x;
-//
-        //      for (x = 0; x < 10; x++ ) {
-        //           System.out.println("Hello");}
+      //  int x;
 
-        for (int i = 10; i > 0; i--) {
-            System.out.println("Hello" + i);
-            System.out.println("Բարև");
-   }
-    
-  }
-}
+    //    for (x = 0; x < 10; x = x + 1) {
+    //        System.out.println("Hello");
+        //
+   //     System.out.println("end of for");
+
+        for (int i = 10; i > 0 ; i--) {
+           System.out.println("Hello " +i);
+           System.out.println("Բարև");
+        }
+
+    }
+
+    }

@@ -7,7 +7,7 @@ public class Main {
         int b = 20;
         boolean c = a < b;
         if (c) {
-            System.out.println("ա -ն փոքր է բ -ից");
+            System.out.println("ա-ն փոքր է բ-ից");
         }
     }
 }
