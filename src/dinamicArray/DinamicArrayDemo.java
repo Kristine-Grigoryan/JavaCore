@@ -3,15 +3,20 @@ package dinamicArray;
 public class DinamicArrayDemo {
 
     public static void main(String[] args) {
-        int[] array = new int[10];
+        DynamicArray dy = new DynamicArray();
+            for (int i = 0; i < 10; i++) {
+              dy.add(i + 1);
+            }
 
-        int size = 0;
-        for (int i : array) {
-            System.out.print( array[i] + " ");
-        }
-        System.out.println();
+
+        int byIndex = dy.getByIndex(1);
+
+
+
 
     }
+
+
 
 }
 

@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7df317de-3809-4896-b385-82686dd6d427" name="Changes" comment="homwork">
-      <change afterPath="$PROJECT_DIR$/src/lesson3/ArrayExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson4/ArrayExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson4/ArrayUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson4/Average.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson4/StrigArrayExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson4/TwoDArrayExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson5/ScannerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson6/stack/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson7/StringExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/FIgurePainter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/FIgurePainter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dinamicArray/DinamicArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dinamicArray/DinamicArrayDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dinamicArray/DynamicArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dinamicArray/DynamicArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/ArrayHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/ArrayHomework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/FIgurePainter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/Sort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,24 +60,48 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;Application.ArrayUtil.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayExample.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ArrayHomework.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArraySort (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArraySort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayUtil.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Average.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BoxTest.executor&quot;: &quot;Run&quot;,
     &quot;Application.CastExample.executor&quot;: &quot;Run&quot;,
     &quot;Application.CharExample (1).executor&quot;: &quot;Run&quot;,
     &quot;Application.CharExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContinueLable1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DinamicArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DinamicArrayDemo.executor&quot;: &quot;Run&quot;,
     &quot;Application.Example.executor&quot;: &quot;Run&quot;,
     &quot;Application.Example1 (1).executor&quot;: &quot;Run&quot;,
     &quot;Application.Example1.executor&quot;: &quot;Run&quot;,
     &quot;Application.FIgurePainter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FigurePainter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FigurePrinterTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForExample.executor&quot;: &quot;Run&quot;,
     &quot;Application.ForTest.executor&quot;: &quot;Run&quot;,
     &quot;Application.Forlesson.executor&quot;: &quot;Run&quot;,
     &quot;Application.Homework1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Homework4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IfElse.executor&quot;: &quot;Run&quot;,
     &quot;Application.IfSample.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SampleSwitch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StrigArrayExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringSwitch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoDArrayExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WhileExample.executor&quot;: &quot;Run&quot;,
     &quot;Application.lesson1.Example.executor&quot;: &quot;Run&quot;,
     &quot;Application.lesson2.Example1.executor&quot;: &quot;Run&quot;,
     &quot;Application.lesson2.ForTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lesson5.WhileExample.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
@@ -84,16 +109,16 @@
     &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayUtil">
-    <configuration name="ArrayUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson4.ArrayUtil" />
+  <component name="RunManager" selected="Application.DinamicArrayDemo">
+    <configuration name="DinamicArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.dynamicarray.DinamicArray" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson4.*" />
+          <option name="PATTERN" value="homework.dynamicarray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CharExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson3.CharExample" />
+    <configuration name="DinamicArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dinamicArray.DinamicArrayDemo" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson3.*" />
+          <option name="PATTERN" value="dinamicArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,27 +139,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Example1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <module name="JavaCore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FIgurePainter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.FIgurePainter" />
+    <configuration name="FigurePainter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.FigurePainter" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
@@ -146,13 +152,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FigurePrinterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.FigurePrinterTest" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson7.StringExample" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayUtil" />
-        <item itemvalue="Application.CharExample" />
-        <item itemvalue="Application.FIgurePainter" />
-        <item itemvalue="Application.Example1 (1)" />
-        <item itemvalue="Application.Example1" />
+        <item itemvalue="Application.DinamicArrayDemo" />
+        <item itemvalue="Application.StringExample" />
+        <item itemvalue="Application.DinamicArray" />
+        <item itemvalue="Application.FigurePrinterTest" />
+        <item itemvalue="Application.FigurePainter" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +244,31 @@
       <option name="project" value="LOCAL" />
       <updated>1757497465971</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="homwork">
+      <option name="closed" value="true" />
+      <created>1758472364138</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1758472364138</updated>
+    </task>
+    <task id="LOCAL-00008" summary="homwork">
+      <option name="closed" value="true" />
+      <created>1758908839001</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1758908839001</updated>
+    </task>
+    <task id="LOCAL-00009" summary="homwork">
+      <option name="closed" value="true" />
+      <created>1759612934129</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1759612934129</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -238,6 +294,145 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="homework1" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework1" />
+    <MESSAGE value="homwork" />
+    <option name="LAST_COMMIT_MESSAGE" value="homwork" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/lesson4/TwoDArrayExample.java</url>
+          <line>4</line>
+          <properties class="lesson4.TwoDArrayExample" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/homework/ArrayHomework.java</url>
+          <line>4</line>
+          <properties class="homework.ArrayHomework" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/homework/ContinueLable1.java</url>
+          <line>4</line>
+          <properties class="homework.ContinueLable1" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/lesson2/IfSample.java</url>
+          <line>4</line>
+          <properties class="lesson2.IfSample" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/lesson6/BoxTest.java</url>
+          <line>4</line>
+          <properties class="lesson6.BoxTest" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/lesson5/SampleSwitch.java</url>
+          <line>4</line>
+          <properties class="lesson5.SampleSwitch" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/homework/StringSwitch.java</url>
+          <line>4</line>
+          <properties class="homework.StringSwitch" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/lesson3/ForExample.java</url>
+          <line>4</line>
+          <properties class="lesson3.ForExample" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/StringSwitch.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lesson4/ArrayExample.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lesson4/ArrayExample.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lesson4/ArrayExample.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lesson4/ArrayExample.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lesson4/ArrayExample.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lesson4/ArrayExample.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lesson4/ArrayExample.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lesson4/ArrayExample.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lesson1/Example.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lesson1/Example.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dinamicArray/DinamicArrayDemo.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
