@@ -12,8 +12,12 @@ public class Employee {
     private int salary;
     private String companny;
     private String position;
+    private String PositionLevel;
     public int length;;
 
+    public Employee(String name, String surname, String empolyeeID, String companny, String position, int salary, String positionLevel) {
+        PositionLevel = positionLevel;
+    }
 
     public int getSalary() {
         return salary;
@@ -25,6 +29,14 @@ public class Employee {
 
     public String getName() {
         return name;
+    }
+
+    public String getPositionLevel() {
+        return PositionLevel;
+    }
+
+    public void setPositionLevel(String positionLevel) {
+        PositionLevel = positionLevel;
     }
 
     public void setName(String name) {
@@ -41,6 +53,20 @@ public class Employee {
 
     public String getEmpleeID() {
         return empleeID;
+    }
+
+    @Override
+    public String toString() {
+        return "Employee{" +
+                "name='" + name + '\'' +
+                ", surname='" + surname + '\'' +
+                ", empleeID='" + empleeID + '\'' +
+                ", salary=" + salary +
+                ", companny='" + companny + '\'' +
+                ", position='" + position + '\'' +
+                ", PositionLevel='" + PositionLevel + '\'' +
+                ", length=" + length +
+                '}';
     }
 
     public void setEmpleeID(String empleeID) {
@@ -75,18 +101,6 @@ public class Employee {
         return Objects.hash(name, surname, empleeID, salary, companny, position);
     }
 
-    @Override
-    public String toString() {
-        return "Employee{" +
-                "name='" + name + '\'' +
-                ", surname='" + surname + '\'' +
-                ", empleeID='" + empleeID + '\'' +
-                ", salary=" + salary +
-                ", companny='" + companny + '\'' +
-                ", position='" + position + '\'' +
-                '}';
-    }
-
     public Employee(String name, String surname, String empolyeeID, String companny, String position, int salary) {
     }
 
@@ -97,7 +111,7 @@ public class Employee {
         this.salary = salary;
         this.companny = companny;
         this.position = position;
-
+        this.PositionLevel=PositionLevel;
 
 
 
